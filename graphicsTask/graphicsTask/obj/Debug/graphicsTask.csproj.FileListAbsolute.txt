@@ -1,0 +1,13 @@
+E:\VS projects\graphicsTask\graphicsTask\bin\Debug\graphicsTask.exe.config
+E:\VS projects\graphicsTask\graphicsTask\bin\Debug\graphicsTask.exe
+E:\VS projects\graphicsTask\graphicsTask\bin\Debug\graphicsTask.pdb
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.csprojAssemblyReference.cache
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Form1.resources
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Properties.Resources.resources
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.csproj.GenerateResource.cache
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.exe
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.pdb
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Form2.resources
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Form4.resources
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Form5.resources
+E:\VS projects\graphicsTask\graphicsTask\obj\Debug\graphicsTask.Form3.resources
